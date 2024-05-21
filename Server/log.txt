@@ -1,0 +1,21 @@
+//Version
+
+//
+4.19.2
+
+1st Part -> 4
+2nd Part -> 19
+3rd Part -> 2
+
+// 3rd Part(Last Part) - Minor Fixes (Optional)
+Latest -> 4.19.2
+
+
+// 2nd Part - Recommended Bug Fix (Security Fix)
+Latest -> 4.20.1
+
+// 3rd Major Release - Major / Breaking Update
+5
+
+^ - Install all Recommended and Minor Fixes Automatically
+~ - Last bit change
